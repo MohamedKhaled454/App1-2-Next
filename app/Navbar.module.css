@@ -1,0 +1,31 @@
+.body {
+    background-color: rgb(87, 48, 48);
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  .navbar {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navLinks {
+    list-style: none;
+    display: flex;
+  }
+  
+  .navLinks li {
+    margin-right: 1rem;
+  }
+  
+  .navLinks a {
+    color: white;
+    text-decoration: none;
+  }
+  
